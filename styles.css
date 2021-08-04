@@ -1,0 +1,9 @@
+.box1 {
+   width: 200px;
+   background: aqua;
+   font-weight: bold;
+   line-height: 200px;
+   text-align: center;
+   margin-bottom: 10px;
+   font-family: sans-serif;
+}
